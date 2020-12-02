@@ -1,0 +1,680 @@
+[
+    {
+        "products": [
+            {
+                "rating": 4,
+                "price": "130",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "burger",
+                        "product_type": "nonveg"
+                    }
+                ],
+                "name": "McSPICY CHICKEN",
+                "image_url": "https://www.mcdonaldsindia.com/images/productview/McSpicyChicken.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4.5,
+                "price": "50",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "coke",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "COKE FLOAT",
+                "image_url": "https://www.mcdonaldsindia.com/images/productview/CokeFloat.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 5,
+                "price": "110",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "fries",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "LARGE FRENCH FRIES",
+                "image_url": "https://www.mcdonaldsindia.com/images/productview/fries.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 3.5,
+                "price": "60",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "burger",
+                        "product_type": "nonveg"
+                    }
+                ],
+                "name": "McEGG Burger",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/HappyPriceMenu/mceg-view.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4,
+                "price": "90",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "burger",
+                        "product_type": "nonveg"
+                    }
+                ],
+                "name": "CHICKEN KABAB BURGER",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/Website-600x6001pix-Chicken-Kebab-Burger.png",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4,
+                "price": "150",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "burger",
+                        "product_type": "nonveg"
+                    }
+                ],
+                "name": "SALSA BEAN BURGER",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/Salsa-Bean-Burger.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4.5,
+                "price": "190",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "burger",
+                        "product_type": "nonveg"
+                    }
+                ],
+                "name": "SALSA CHICKEN BURGER",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/Salsa-Chicken-Burger.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 5,
+                "price": "205",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "burger",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "AMERICAN CHEESE SUPREME VEG BURGER",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/American-VEG-copy.png",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4,
+                "price": "130",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "burger",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "DOSA MASALA WITH WHOLE WHEAT BUN",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/Brioche-wwb.png",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 3.5,
+                "price": "180",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "burger",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "HASHBROWN WITH WHOLE WHEAT BUN",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/HASHBROWN-WITH-WWB.png",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4.5,
+                "price": "160",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "tea",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "ICED TEA",
+                "image_url": "https://www.mcdonaldsindia.com/images/productview/icedtea.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4,
+                "price": "40",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "shake",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "REGULAR CHOCOLATE MILKSHAKE",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/Chocolate%20Shake.png",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4,
+                "price": "60",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "shake",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "MEDIUM CHOCOLATE MILKSHAKE",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/Chocolate%20Shake.png",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4,
+                "price": "115",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "shake",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "LARGE CHOCOLATE MILKSHAKE",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/Chocolate%20Shake.png",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4.5,
+                "price": "50",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "icecream",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "SOFT SERVE (REGULAR)",
+                "image_url": "https://www.mcdonaldsindia.com/images/productview/SoftServe(Regular).jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4.5,
+                "price": "80",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "icecream",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "MCFLURRY CHOCO CRUNCH SMALL",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/Crunch.png",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4.5,
+                "price": "145",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "icecream",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "MCFLURRY CHOCOCRUNCH REGULAR",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/Crunch.png",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 5,
+                "price": "250",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "wrap",
+                        "product_type": "nonveg"
+                    }
+                ],
+                "name": "BIGSPICY CHICKEN WRAP",
+                "image_url": "https://www.mcdonaldsindia.com/images/productview/BigSpicyChickenWrap.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4.5,
+                "price": "190",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "wrap",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "BIGSPICY PANEER WRAP",
+                "image_url": "https://www.mcdonaldsindia.com/images/productview/BigSpicyPaneerWrap.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 5,
+                "price": "90",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "puff",
+                        "product_type": "nonveg"
+                    }
+                ],
+                "name": "VEG PIZZA McPUFF",
+                "image_url": "https://www.mcdonaldsindia.com/images/productview/VegPizzaMcPuff.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4.5,
+                "price": "110",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "wrap",
+                        "product_type": "nonveg"
+                    }
+                ],
+                "name": "CHICKEN KABAB WRAP",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/Website-600x600pix-Chicken-Kebab-Wrap.png",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4,
+                "price": "30",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "wrap",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "MEXICAN ALOO WRAP",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/Website600x600pix-Mexican-Aloo-Wrap.png",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4.5,
+                "price": "135",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "wrap",
+                        "product_type": "nonveg"
+                    }
+                ],
+                "name": "GREEN CHILLI KABAB NAAN",
+                "image_url": "https://www.mcdonaldsindia.com/images/products/new/Green-Chilli-Chicken-Kebab-Naan.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4.5,
+                "price": "70",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "shake",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "MCSHAKE STRAWBERRY",
+                "image_url": "https://www.mcdonaldsindia.com/images/productview/Strawberry-shake.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4.5,
+                "price": "40",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "coke",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "COKE",
+                "image_url": "https://www.mcdonaldsindia.com/images/productview/coke.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 5,
+                "price": "60",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "coke",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "THUMS UP",
+                "image_url": "https://www.mcdonaldsindia.com/images/productview/thumpsup.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4,
+                "price": "50",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "coke",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "FANTA",
+                "image_url": "https://www.mcdonaldsindia.com/images/productview/fanta.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4,
+                "price": "30",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "tea",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "PLAIN TEA",
+                "image_url": "https://www.mcdonaldsindia.com/images/productview/PlainTea.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            },
+            {
+                "rating": 4.5,
+                "price": "80",
+                "currency": "Rs",
+                "is_available": true,
+                "qty": 1,
+                "categories": [
+                    {
+                        "alias": "coffee",
+                        "product_type": "veg"
+                    }
+                ],
+                "name": "COLD COFFEE",
+                "image_url": "https://www.mcdonaldsindia.com/images/coldcoffee.jpg",
+                "transactions": [
+                    "pickup",
+                    "delivery"
+                ]
+            }
+        ],
+        "offers": [
+            {
+                "offer_image_url": "https://www.mcdonaldsindia.com/images/Corp%20Site_Contactless-Creative_1200-x-628-(2).png"
+            },
+            {
+                "offer_image_url": "https://www.mcdonaldsindia.com/images/ADD_CropWeb_Tenny-Ty-and-Fast-and-Furious.png"
+            },
+            {
+                "offer_image_url": "https://www.mcdonaldsindia.com/images/ADD_CropWeb_Tenny-Ty-and-Fast-and-Furious_1.png"
+            },
+            {
+                "offer_image_url": "https://www.mcdonaldsindia.com/images/Co-operate-Site-desktop.jpg"
+            },
+            {
+                "offer_image_url": "https://www.mcdonaldsindia.com/images/McSaver-Co-operate-Site-desktop.jpg"
+            }
+        ],
+        "menu": [
+            {
+                "menu_image_url": "https://www.mcdonaldsindia.com/images/products/Favorites/McMaharaja-nonveg.png",
+                "categorie_name": "burger"
+            },
+            {
+                "menu_image_url": "https://www.mcdonaldsindia.com/images/products/HappyPriceMenu/CokeFloat.jpg",
+                "categorie_name": "coke"
+            },
+            {
+                "menu_image_url": "https://www.mcdonaldsindia.com/images/products/Favorites/FrenchFries.jpg",
+                "categorie_name": "fries"
+            },
+            {
+                "menu_image_url": "https://www.mcdonaldsindia.com/images/products/BeveragesandDesserts/WalnutBrownieandHotFudge.jpg",
+                "categorie_name": "icecream"
+            },
+            {
+                "menu_image_url": "https://www.mcdonaldsindia.com/images/products/SpicyDelights/BigSpicyChickenWrap.jpg",
+                "categorie_name": "wrap"
+            },
+            {
+                "menu_image_url": "data:image/jpeg;base64,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",
+                "categorie_name": "shake"
+            },
+            {
+                "menu_image_url": "https://www.mcdonaldsindia.com/images/products/BeveragesandDesserts/Tea.jpg",
+                "categorie_name": "tea"
+            },
+            {
+                "menu_image_url": "https://www.mcdonaldsindia.com/images/products/Favorites/Mc-puff.png",
+                "categorie_name": "puff"
+            },
+            {
+                "menu_image_url": "https://www.mcdonaldsindia.com/images/coldcoffee-s.jpg",
+                "categorie_name": "coffee"
+            }
+        ],
+        "location": [
+            {
+                "city": "Pune",
+                "country": "IN",
+                "state": "MH",
+                "address": "CTS 42, 43, 3rd Flr, Kumar Pacific Mall, Shankar Sheth Rd, Pune, Maharashtra",
+                "zip_code": "411042",
+                "coordinates": {
+                    "latitude": 18.500700,
+                    "longitude": 73.861800
+                }
+            },
+            {
+                "city": "Pune",
+                "country": "IN",
+                "state": "MH",
+                "address": "Stellar Enclave, Shop No 8/14, DP Rd, Aundh, Pune, Maharashtra",
+                "zip_code": "411007",
+                "coordinates": {
+                    "latitude": 18.559890,
+                    "longitude": 73.809050
+                }
+            },
+            {
+                "city": "Pune",
+                "country": "IN",
+                "state": "MH",
+                "address": " Ground Floor, MSM Central Mall, near Garware College, Erandwane, Pune, Maharashtra",
+                "zip_code": "411004",
+                "coordinates": {
+                    "latitude": 18.546412,
+                    "longitude": 73.783248
+                }
+            },
+            {
+                "city": "Pune",
+                "country": "IN",
+                "state": "MH",
+                "address": "Plot No 1278, Suyog Plaza, Jangali Maharaj Rd, opposite CakeShahi Cake Shop, Deccan Gymkhana, Pune, Maharashtra",
+                "zip_code": "411004",
+                "coordinates": {
+                    "latitude": 18.544650,
+                    "longitude": 73.840523
+                }
+            },
+            {
+                "city": "Pune",
+                "country": "IN",
+                "state": "MH",
+                "address": "Pune - Kharadi - Ganga Platino, Shop No. 6, Ground Floor Mezzanine & Go Building-A, Survey No. 60, next to WTC-II, Kharadi, Pune, Maharashtra",
+                "zip_code": " 411014",
+                "coordinates": {
+                    "latitude": 18.557158,
+                    "longitude": 73.9437039
+                }
+            },
+            {
+                "city": "Pune",
+                "country": "IN",
+                "state": "MH",
+                "address": "SGS Mall, Shop No 34, Kakade, Moledina Rd, Pune, Maharashtra",
+                "zip_code": "411001",
+                "coordinates": {
+                    "latitude": 18.518835012,
+                    "longitude": 73.878215004
+                }
+            }
+        ]
+    }
+]

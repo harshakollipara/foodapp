@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963380232466",
+    "firebase_url": "https://capgeminidemoapp.firebaseio.com",
+    "project_id": "capgeminidemoapp",
+    "storage_bucket": "capgeminidemoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963380232466:android:20db905f553cd275d773cb",
+        "android_client_info": {
+          "package_name": "com.capgeminidemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963380232466-o29bb28attk0skl7fbk6cioatfdja7se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZE-EV044_2N3f6mkJxdtV74ob9SBO2jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963380232466-o29bb28attk0skl7fbk6cioatfdja7se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
